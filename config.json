@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"1824557330"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +42,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "quantrivienblur@gmail.com",
+			"clientId": "447785013447-lq9r6ng30qhs9416lvernbj56jsph9qk.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04T5gi5wL7DtrCgYIARAAGAQSNwF-L9IrpD4NDPEAHogAnZzwu2bMxy_eJ03MkD2hBlt5wSUTZlpNH5O6BVWGF5NQYTb2xx9xLSk",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Lcg_espAAAAAOswEG9-38wmjZM3VZGDKSE7Elhu",
+			"secretKey": "6Lcg_espAAAAAA-o_lnRaRvZQkMBCekYZ6jPKjQP"
 		}
 	},
 	"dashBoard": {
